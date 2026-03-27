@@ -5,7 +5,7 @@ The journey highlights my growth in Python, data analysis, and healthcare domain
 
 ---
 
-## 🚀 Month 1 – Foundations
+## Month 1 – Foundations
 
 ### Week 1 – Python Foundations
 - Completed onboarding and guidelines
@@ -72,4 +72,4 @@ Throughout the internship, I applied technical skills to the **healthcare domain
 ---
 
 ## 📝 Author
-Internship Journey documented by **[Your Name]**
+Internship Journey documented by **![Shreeram Prajapati](https://img.shields.io/badge/Shreeram%20Prajapati-blue)**
