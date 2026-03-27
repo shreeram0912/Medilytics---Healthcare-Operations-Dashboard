@@ -1,0 +1,25 @@
+# Dictionary of students and their marks
+students_marks = {
+    "Alice": 85,
+    "Bob": 72,
+    "Charlie": 39,
+    "David": 91,
+    "Eva": 28
+}
+
+# 1. Print average marks of each student
+# (Here, each student has one mark, so average = marks)
+print("Average marks of each student:")
+for student, marks in students_marks.items():
+    print(f"{student}: {marks}")
+
+# 2. Find the topper
+topper = max(students_marks, key=students_marks.get)
+print("\nTopper:")
+print(f"{topper} with {students_marks[topper]} marks")
+
+# 3. Find students who scored below 40
+print("\nStudents who scored below 40:")
+for student, marks in students_marks.items():
+    if marks < 40:
+        print(student)
