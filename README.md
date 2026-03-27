@@ -1,8 +1,6 @@
 # Medilytics - Healthcare Operations Dashboard
 Medilytics is a healthcare operations and revenue analytics dashboard developed as part of the Infosys Springboard Virtual Internship 6.0 (Batch 13). The project focuses on analyzing healthcare financial data, monitoring operational performance, and generating predictive insights using data analytics and machine learning techniques.
 [Dashboard demo](https://drive.google.com/file/d/1ZMYmEDV25p7YDgeOLum7a4GwPcw3jXw4/view?usp=drive_link)
-<h2>Demo</h2>
-<a href="https://drive.google.com/file/d/1ZMYmEDV25p7YDgeOLum7a4GwPcw3jXw4/view?usp=drive_link" target="_blank">Dashboard demo</a>
 
 ## 1. Introduction
 
